@@ -1,0 +1,15 @@
+VIT_encoder/st_mem/
+VIT_encoder/database/
+VIT_encoder/finetune.py
+VIT_encoder/metrics.ipynb
+VIT_encoder/figures/
+
+results/
+
+embed_models.py
+
+__pycahe__/
+VIT_encoder/__pycahe__/
+VIT_encoder/models/__pycahe__/
+VIT_encoder/models/encoder/__pycahe__/
+*.pyc
